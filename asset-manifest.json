@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/box-office/static/css/main.b2586571.css",
-    "main.js": "/box-office/static/js/main.f147752e.js",
+    "main.js": "/box-office/static/js/main.8eeb5971.js",
     "service-worker.js": "/box-office/service-worker.js",
     "index.html": "/box-office/index.html",
     "main.b2586571.css.map": "/box-office/static/css/main.b2586571.css.map",
-    "main.f147752e.js.map": "/box-office/static/js/main.f147752e.js.map"
+    "main.8eeb5971.js.map": "/box-office/static/js/main.8eeb5971.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.f147752e.js"
+    "static/js/main.8eeb5971.js"
   ]
 }
