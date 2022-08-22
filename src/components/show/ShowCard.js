@@ -1,5 +1,5 @@
 /* eslint-disable react/function-component-definition */
-import React from 'react';
+import React, { memo } from 'react';
 import { Link } from 'react-router-dom';
 import { Star } from '../styled';
 import { StyledShowCard } from './ShowCard.styled';
@@ -29,4 +29,4 @@ const ShowCard = ({ id, image, name, summary, onStarClick, isStarred }) => {
   );
 };
 
-export default ShowCard;
+export default memo(ShowCard);
